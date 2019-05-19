@@ -11,4 +11,7 @@ npm install
 
 # run webpack to build client bundle
 npm run react-dev
+
+# open index.html
+go to react-client/dist/index.html
 ```
